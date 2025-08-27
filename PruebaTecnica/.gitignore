@@ -1,0 +1,34 @@
+﻿# Archivos de Visual Studio
+.vs/
+*.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Binarios y builds
+bin/
+obj/
+Debug/
+Release/
+[Bb]uild/
+artifacts/
+
+# Archivos temporales
+*.vsidx
+*.dbmdl
+*.log
+*.tmp
+*.temp
+*.cache
+*.pidb
+*.svclog
+*.scc
+
+# Publicaciones
+*.publishsettings
+*.pubxml
+*.pubxml.user
+
+# Otros
+node_modules/

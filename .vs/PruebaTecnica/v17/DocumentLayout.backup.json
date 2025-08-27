@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\documents\\pruebatecnica\\pruebatecnica\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D7096D-4B5C-4855-BA8E-B9751F628B73}|PruebaTecnica.Tests\\PruebaTecnica.Tests.csproj|c:\\users\\usuario\\documents\\pruebatecnica\\pruebatecnica.tests\\cardservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D7096D-4B5C-4855-BA8E-B9751F628B73}|PruebaTecnica.Tests\\PruebaTecnica.Tests.csproj|solutionrelative:pruebatecnica.tests\\cardservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\documents\\pruebatecnica\\pruebatecnica\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D7096D-4B5C-4855-BA8E-B9751F628B73}|PruebaTecnica.Tests\\PruebaTecnica.Tests.csproj|c:\\users\\usuario\\documents\\pruebatecnica\\pruebatecnica.tests\\sqliteinmemoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D7096D-4B5C-4855-BA8E-B9751F628B73}|PruebaTecnica.Tests\\PruebaTecnica.Tests.csproj|solutionrelative:pruebatecnica.tests\\sqliteinmemoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\documents\\pruebatecnica\\pruebatecnica\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\documents\\pruebatecnica\\pruebatecnica\\services\\cardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\services\\cardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\documents\\pruebatecnica\\pruebatecnica\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\documents\\pruebatecnica\\pruebatecnica\\helpers\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\helpers\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\documents\\pruebatecnica\\pruebatecnica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\documents\\pruebatecnica\\pruebatecnica\\services\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\services\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\usuario\\documents\\pruebatecnica\\pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C15ED0-3345-4E24-8D71-4E384155D72C}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\.gitignore",
+              "RelativeDocumentMoniker": "PruebaTecnica\\.gitignore",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\.gitignore",
+              "RelativeToolTip": "PruebaTecnica\\.gitignore",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-08-27T22:55:03.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqliteInMemoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica.Tests\\SqliteInMemoryFactory.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Tests\\SqliteInMemoryFactory.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica.Tests\\SqliteInMemoryFactory.cs",
+              "RelativeToolTip": "PruebaTecnica.Tests\\SqliteInMemoryFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:32:35.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica.Tests\\CardServiceTests.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Tests\\CardServiceTests.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica.Tests\\CardServiceTests.cs",
+              "RelativeToolTip": "PruebaTecnica.Tests\\CardServiceTests.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwFwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:31:55.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Services\\CardValidator.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Services\\CardValidator.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Services\\CardValidator.cs",
+              "RelativeToolTip": "PruebaTecnica\\Services\\CardValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:45:58.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Models\\Card.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:45:34.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Helpers\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Helpers\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Helpers\\PaginatedList.cs",
+              "RelativeToolTip": "PruebaTecnica\\Helpers\\PaginatedList.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:32:45.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PruebaTecnica\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:25:26.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Services\\CardService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Services\\CardService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Services\\CardService.cs",
+              "RelativeToolTip": "PruebaTecnica\\Services\\CardService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:12:42.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICardService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Services\\ICardService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Services\\ICardService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Services\\ICardService.cs",
+              "RelativeToolTip": "PruebaTecnica\\Services\\ICardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:12:17.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Controllers\\CardController.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\CardController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:04:17.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\PruebaTecnica\\PruebaTecnica\\Program.cs",
+              "RelativeToolTip": "PruebaTecnica\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:48:06.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
